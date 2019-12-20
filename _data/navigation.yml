@@ -1,0 +1,45 @@
+# Site navigation links
+
+- title: Hem
+  url: /
+  include: 'N'
+
+- title: Aktuellt
+  url: /aktuellt
+  include: 'N'
+
+- title: Regler
+  url: /regler/
+  include: 'N'
+
+- title: Ekonomi
+  url: /ekonomi/
+  include: 'N'
+
+- title: Teknik
+  url: /teknik/
+  include: 'N'
+
+- title: Miljö
+  url: /environ/
+  include: 'N'
+
+- title: Ritningar
+  url: /ritningar/
+  include: 'N'
+
+- title: Historia
+  url: /historia/
+  include: 'N'
+
+- title: Arkiv
+  url: /arkiv/
+  include: 'N'
+
+- title: Kontakt
+  url: /about
+  include: 'N'
+
+- title: Sök
+  url: /search/
+  include: 'N'
