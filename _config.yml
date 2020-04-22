@@ -7,9 +7,9 @@ locale: en_US
 description: i ett bra läge
 logo: morkullan4_logo.jpg
 search: true
-url: https://karttur.github.io/morkullan4
+url: https://morkullan4.github.io/
 #commonurl is the link to common resources for all my sites
-commonurl: https://karttur.github.io/common
+commonurl: https://morkullan4.github.io/
 
 # Jekyll configuration
 
