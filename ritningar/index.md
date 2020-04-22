@@ -7,7 +7,7 @@ search_omit: true
 
 Här kan du hitta olika ritningar över fastigheten Morkullan 4 som ägs av BRF Morkullan 4.
 
-Är du ute efter en fullskalig ritning och vet vad den heter eller vilken typ och vy den ska innehåll, kan du också gå <a href="https://github.com/karttur/morkullan4/tree/gh-pages/ritningar/doc/full">direkt till arkivet som innehåller alla ritningar (GitHub sida)</a>. Längre ned på sidan finns också länkar till alla ritningar som finns tillgängliga här.
+Är du ute efter en fullskalig ritning och vet vad den heter eller vilken typ och vy den ska innehåll, kan du också gå <a href="https://github.com/Morkullan4/Morkullan4.github.io/tree/master/ritningar/doc/full">direkt till arkivet som innehåller alla ritningar (GitHub sida)</a>. Längre ned på sidan finns också länkar till alla ritningar som finns tillgängliga här.
 
 I den kortare listan över tematiska ritnignar kan du klicka dig till ritnigar från en viss period och med ett visst innehåll.
 
