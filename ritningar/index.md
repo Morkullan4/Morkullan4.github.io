@@ -15,7 +15,8 @@ I den kortare listan över tematiska ritnignar kan du klicka dig till ritnigar f
 
 - <a href="./planritningar/index.html">Planritningar (1986)</a>
 - <a href="./fasad/index.html">Fasadritningar (1986)</a>
-- <a href="./vvs/index.html">VVS ritningar (1986)</a>
+- <a href="./vvs/index.html">VVS (1986)</a>
+- <a href="./vent/index.html">ventilation (1986)</a>
 - <a href="./sektioner/index.html">Sektioner (1986)</a>
 - <a href="./bjaelklag/index.html">Bjälklag (1986)</a>
 - <a href="./detaljer/index.html">Detaljritningar (1986)</a>
